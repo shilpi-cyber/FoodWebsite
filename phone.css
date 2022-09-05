@@ -1,0 +1,33 @@
+/*Navigation*/
+#navbar{
+    flex-direction: column;
+}
+body{
+    background-color: red;
+}
+/*home*/
+#home
+{
+    height: 370px;
+    
+}
+#home::before
+{
+    height: 500px;
+    
+}
+/*services*/
+#services
+{   
+    flex-direction: column;
+}
+#services .box{
+
+}
+/*clients*/
+#clients{
+    overflow: hidden;
+}
+.h-primary{
+    font-size: 26px;
+}
